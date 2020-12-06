@@ -1,4 +1,4 @@
-# noperman.github.io/ipiring
+# noperman.github.io/iPiring
 
 Demo site : https://noperman.github.io/ipiring/
 
