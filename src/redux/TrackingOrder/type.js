@@ -1,0 +1,12 @@
+const type = {
+  TIMER_CHANGE: 'TIMER_CHANGE',
+  PREV_PAGE: 'PREV_PAGE',
+  NEXT_PAGE: 'NEXT_PAGE',
+  
+  RESET_DATA: 'RESET_DATA',
+  FINISHED_ORDER: 'FINISHED_ORDER',
+  
+  PAGES_CHANGE: 'PAGES_CHANGE'
+}
+
+export default type
