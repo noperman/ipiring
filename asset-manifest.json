@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ipiring/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/ipiring/static/js/main.5e1e3ca6.chunk.js",
+    "main.js.map": "/ipiring/static/js/main.5e1e3ca6.chunk.js.map",
+    "runtime-main.js": "/ipiring/static/js/runtime-main.cb778103.js",
+    "runtime-main.js.map": "/ipiring/static/js/runtime-main.cb778103.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/ipiring/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.17b91466.chunk.js": "/ipiring/static/js/2.17b91466.chunk.js",
+    "static/js/2.17b91466.chunk.js.map": "/ipiring/static/js/2.17b91466.chunk.js.map",
+    "static/js/3.e0b57015.chunk.js": "/ipiring/static/js/3.e0b57015.chunk.js",
+    "static/js/3.e0b57015.chunk.js.map": "/ipiring/static/js/3.e0b57015.chunk.js.map",
+    "index.html": "/ipiring/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/ipiring/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/ipiring/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.17b91466.chunk.js.LICENSE.txt": "/ipiring/static/js/2.17b91466.chunk.js.LICENSE.txt",
+    "static/media/ipiring.dcb5c67f.png": "/ipiring/static/media/ipiring.dcb5c67f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb778103.js",
+    "static/css/2.1a02f21c.chunk.css",
+    "static/js/2.17b91466.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.5e1e3ca6.chunk.js"
+  ]
+}
