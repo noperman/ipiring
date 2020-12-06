@@ -1,6 +1,6 @@
-# iPiring.github.io
+# noperman.github.io/ipiring
 
-Demo site : https://ipiring.github.io/
+Demo site : https://noperman.github.io/ipiring/
 
 ## Contact
 - email : noveralexander@gmail.com
